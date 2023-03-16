@@ -8,9 +8,10 @@ body {
   overflow: hidden;
 }
 
-canvas {
+.webgl {
   position: fixed;
   top: 0;
   left: 0;
   outline: none;
+  background: #3a3a3a;
 }
