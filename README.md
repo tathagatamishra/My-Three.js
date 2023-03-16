@@ -2,8 +2,9 @@
 
 ### Go to the `Base Code` folder to start with
 
-<h3>or</h3>
+## OR
 
+## Follow these steps to create the most basic Three.js project
 
 ```yml
 
@@ -36,7 +37,11 @@
 
 ```
 
+<br>
+
+## HTML
 ```html
+
   // add a canvas element
 
   <canvas></canvas>
@@ -47,11 +52,32 @@
 
 ```
 
+<br>
+
+## CSS
 ```css
   // add simple CSS & connect it with HTML
+
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  html,
+  body {
+    overflow: hidden;
+  }
+  
+  canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+  }
+
 ```
 
-<h2>Three.js Starts From Here</h2>
+<br>
 
 ```bash
 
@@ -63,7 +89,11 @@
 
 ```
 
+<br>
+
+## Three.js
 ```js
+
 import * as THREE from 'three'
 
 
@@ -119,4 +149,5 @@ room.add(coloredBox)
 // Final Line
 
 renderer.render(room, camera)
+
 ```
