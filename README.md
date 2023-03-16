@@ -1,12 +1,11 @@
 <h1 align="center">My Three.js</h1>
 
-<p>Go to the `Base Code` folder to start with</p>
+### Go to the `Base Code` folder to start with
 
 <h3>or</h3>
 
 
-```
-
+```yml
 
   npm init vite
 
@@ -16,7 +15,7 @@
 
 ```
 
-```
+```bash
 
   cd Base-Code
   npm install
@@ -24,7 +23,7 @@
 
 ```
 
-```
+```yml
 
   // keep node_modules, package.json & package-lock.json
 
@@ -37,7 +36,7 @@
 
 ```
 
-```
+```html
   // add a canvas element
 
   <canvas></canvas>
@@ -48,13 +47,13 @@
 
 ```
 
-```
+```css
   // add simple CSS & connect it with HTML
 ```
 
 <h2>Three.js Starts From Here</h2>
 
-```
+```bash
 
   ctrl c
 
@@ -64,13 +63,7 @@
 
 ```
 
-```
-
-  import * as THREE from 'three'
-
-```
-
-```
+```js
 import * as THREE from 'three'
 
 
