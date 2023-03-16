@@ -1,6 +1,6 @@
 <h1 align="center">My Three.js</h1>
 
-### Go to the `Base-Code` folder to start with
+### Go to the `Base-Code` folder to start with this https://threejs-basic-setup.netlify.app/
 
 ## OR
 
