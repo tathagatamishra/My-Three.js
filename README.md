@@ -6,15 +6,23 @@
 
 <h4> Follow these steps to create the most basic Three.js project </h4>
 
-```yml
+_step 1_
+
+```bash
 
   npm init vite
+
+```
+
+```yml
 
   // choose a project & package name
   // choose Vanilla
   // choose JavaScript
 
 ```
+
+_step 2_
 
 ```bash
 
@@ -39,6 +47,7 @@
 
 <br>
 
+_step 3_
 ## HTML
 ```html
 
@@ -54,9 +63,10 @@
 
 <br>
 
+_step 4_
 ## CSS
 ```css
-  // add simple CSS & connect it with HTML
+  /* add simple CSS & connect it with HTML */
 
   * {
     margin: 0;
@@ -79,6 +89,7 @@
 
 <br>
 
+_step 5_
 ```bash
 
   ctrl c
@@ -91,6 +102,7 @@
 
 <br>
 
+_step 6_
 ## Three.js
 ```js
 
