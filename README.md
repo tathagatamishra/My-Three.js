@@ -1,10 +1,10 @@
 <h1 align="center">My Three.js</h1>
 
-### Go to the `Base Code` folder to start with
+### Go to the `Base-Code` folder to start with
 
 ## OR
 
-## Follow these steps to create the most basic Three.js project
+<h4> Follow these steps to create the most basic Three.js project </h4>
 
 ```yml
 
